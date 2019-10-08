@@ -115,4 +115,7 @@ and make sure that you can show how you’ll get more revenue from a customer th
 1. `Read VC blogs` — read them all, and read them very very care- fully. VCs who blog are doing entrepreneurs a huge service both in conveying highly useful information as well as frequently putting themselves out there to be contacted by entrepreneurs in various ways including email, comments, and even uploaded podcasts. Each VC is diWerent in terms of how she wants to engage with people online, but by all means read as many VC blogs as you can and interact with as many of them as you can in appropriate ways.
 2. Create or contribute to a meaningful open source project. if you have
    time
+#### If none of those ideas work for you
+> **Tried** angel funding, bootstrapping via consulting contracts or early customers, keeping your day job and
+working on your startup in your spare time, and credit card debt.
 
