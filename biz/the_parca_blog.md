@@ -119,3 +119,31 @@ and make sure that you can show how you’ll get more revenue from a customer th
 > **Tried** angel funding, bootstrapping via consulting contracts or early customers, keeping your day job and
 working on your startup in your spare time, and credit card debt.
 
+## Wed Oct  9 07:40:12 +07 2019
+### The only thing that matters - P4
+#### Q1. what’s most dangerous: a bad team, a weak product, or a poor market?
+> Market is the most important factor in a startup’s success or failure. Why? In a great market
+
+> A market with lots of real potential customers — the market pulls product out of the startup. The market needs to be fulXlled and the market will be fulXlled, by the Xrst viable product that comes along. The product doesn’t need to be great; it just has to basically work. And, the market doesn’t care how good the team is, as long as the team can produce that viable product. In short, customers are knocking down your door to get the product; the main goal is to actually answer the phone and respond to all the emails from people who want to buy.
+## RachleE’s Law of Startup Success:
+> The #1 company-killer is lack of market.
+- When a great team meets a lousy market, market wins.
+- When a lousy team meets a great market, market wins.
+- When a great team meets a great market, something special happens.
+##### `Markets that don’t exist don’t care how smart you are.`
+#### Q2. Can’t great products sometimes create huge new markets?
+> This is a best case scenario,VMWare - VMWare’s product was so profoundly transformative out of the gate that it catalyzed a whole new movement toward operating system virtualization, which turns out to be a monster market.
+
+> ****Understand I’m not saying that you should shoot low in terms of quality of team, or that VMWare’s team was not incredibly strong — it was, and is. I’m saying, bring a product as transformative as VMWare’s to market and you’re going to succeed, full stop.****
+
+#### Q.3 As a startup founder, what should I do about all this?
+> RachleE’s Corollary of Startup Success: **The only thing that matters is getting to product/market fit.**
+##### And you can always feel product/market Fit when it’s happening. The customers are buying the product just as fast as you can make it
+It's devided into 2 part  - "`BPMF`" (Before product/market fit) and "`APMF`" (After product/market fit)
+> When you are BPMF, focus obsessively on getting to product/market fit.
+
+ Including changing out people, rewriting your product, moving into a different market, telling customers no when you don’t want to, telling customers yes when you don’t want to, raising that fourth round of highly dilutive venture capital — whatever is required. When you get right down to it, you can ignore almost everything else.
+
+> Whenever you see a successful startup, you see one that has reached product/market fit 
+
+Ironically, once a startup is successful, and you ask the founders what made it successful, they will usually cite all kinds of things that had nothing to do with it. People are terrible at understanding causation. But in almost every case, the cause was actually product/market fit.
