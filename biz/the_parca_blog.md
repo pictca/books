@@ -1,6 +1,6 @@
 ![](https://pmarca.files.wordpress.com/2015/01/pmarcablogarchives_coverbyhagy.jpg?w=545&h=818)
 ### The Pmarca guide to startups
-
+---
 ## Why not to do a startup - P1
 > **In an established company** — no matter how poorly run or
 demoralized — things happen. They just happen. People come
@@ -75,20 +75,14 @@ they pay for it? How much will they pay? How do we know?
 9. `Product risk` — even assuming the product can in theory be built, can this team build it?
 10. `Hiring risk` — what positions does the startup need to hire for in order to execute its plan? E.g. a startup planning to build a high- scale web service will need a VP of Operations — will the found- ing team be able to hire a good one?
 11. `Location risk` — where is the startup located? Can it hire the right talent in that location? And will I as the VC need to drive more than 20 minutes in my Mercedes SLR McLaren to get there?
-> put yourself in the VC’s shoes: what could this
-startup do to minimize or eliminate enough of these risks to
-make the company fundable?
+> put yourself in the VC’s shoes: what could this startup do to minimize or eliminate enough of these risks to make the company fundable?
 ### Some ideas on reducing risk
 1. `Founder risk` - add one to more founder 
 2. `Market risk` - you probably need to validate the market, at a practical level. Sometimes more detailed and analytical market research will solve the problem, but more oaen you actually need to go get some customers to demonstrate that the market exists. Preferably, paying customers. Or at least credible prospects who will talk to VCs to validate the market hypothesis.
 3. `Competition risk` - Rethink this one from the ground up. If you don’t have a really solid idea as to how you’re dramatically diWerent from or advantaged over known and unknown competitors, you might not want to start a company in the Xrst place.
-> Never, ever say your market projections indicate you’re
-going to be hugely successful if you get only 2% of your
-(extremely large) market.
+> Never, ever say your market projections indicate you’re going to be hugely successful if you get only 2% of your (extremely large) market.
 
-> Never, ever say that you have no competitors. That signals
-naivete. Great markets draw competitors, and so if you really
-have no competition, you must not be in a great market.
+> Never, ever say that you have no competitors. That signals naivete. Great markets draw competitors, and so if you really have no competition, you must not be in a great market.
 
 4. `Timing risk` — the only thing to do here is to make more progress, and demonstrate that you’re not too early or too late. Getting customers in the bag is the most valuable thing you can do on this one.
 5. `Financing risk` — rethink very carefully how much money you will need to raise aaer this round of Xnancing, and try to change the plan in plausible ways to require less money.
@@ -105,7 +99,7 @@ and make sure that you can show how you’ll get more revenue from a customer th
 > The whole theory of venture capital is that VCs are investing in risk — another term for venture capital is “risk capital” — but the reality is that VCs will only take on so much risk, and the best thing you can do to optimize your chances of raising money is to take out risk.
 
 > **Peel away at the onion.** -`So keep your options open all the way to the end`.
-
+---
 ## "But I don't know any VCs!" - P3
 > The starting point for raising money from VCs when you don’t know any VCs is to realize that VCs work mostly **through referrals**
 
@@ -119,6 +113,7 @@ and make sure that you can show how you’ll get more revenue from a customer th
 > **Tried** angel funding, bootstrapping via consulting contracts or early customers, keeping your day job and
 working on your startup in your spare time, and credit card debt.
 
+---
 ## Wed Oct  9 07:40:12 +07 2019
 ### The only thing that matters - P4
 #### Q1. what’s most dangerous: a bad team, a weak product, or a poor market?
@@ -147,3 +142,62 @@ It's devided into 2 part  - "`BPMF`" (Before product/market fit) and "`APMF`" (A
 > Whenever you see a successful startup, you see one that has reached product/market fit 
 
 Ironically, once a startup is successful, and you ask the founders what made it successful, they will usually cite all kinds of things that had nothing to do with it. People are terrible at understanding causation. But in almost every case, the cause was actually product/market fit.
+
+---
+### Thu Oct 10 07:51:48 +07 2019
+#### The Moby Dick theory of big companies - P5
+The inside of any big company is a very, very complex system
+consisting of many thousands of people, of whom at least hun-
+dreds and probably thousands are executives who think they
+have some level of decision-making authority.
+
+On any given issue, many people inside the company are going
+to get some kind of vote on what happens — maybe 8 people,
+maybe 10, 15, 20, sometimes many more.
+
+> “The larger whales, whalers seldom venture to attack. They stand in so great dread of some of them, that when out at sea they are afraid to mention even their names, and carry dung, lime-stone, juniper- wood, and some other articles of the same nature in their boats, in order to terrify and prevent their too near approach.” 
+> - Uno Von Troil’s Letters on Banks’s and Solander’s Voyage to Iceland In 1772
+
+##### The downside of dealing with a big company is that he can capize you — maybe by stepping on you in one way or another and killing you, but more likely by wrapping you up in a bad partnership that ends up holding you back, or just making you waste a huge amount of time in meetings and get distracted from your core mission.
+
+### So what to do?
+> ##### 1. Don’t do startups that require deals with big companies to make them successful.
+> ##### 2. Never assume that a deal with a big company is closed until the ink hits the paper and/or the cash hits the company bank account.
+> ##### 3. Be extremely patient.
+> ##### 4. Beware bad deals.
+> ##### 5. Never, ever assume a big company will do the obvious thing.
+> ##### 6. Be aware that big companies care a lot more about what other big companies are doing than what any startup is doing.
+> ##### 7. If doing deals with big companies is going to be a key part of your strategy, be sure to hire a real pro who has done it before.
+> ##### 8. Don’t get obsessed.Always be ready to have the conversation just drop and to return to your core business.
+
+---
+#### How much funding is too little? Too much? - P6
+We talk to startup life can be divided into 2 part - BPMF / APMF
+- ***Before Product/Market Fit***, a startup should ideally raise at least enough money to get to Product/Market Fit.
+- ***After Product/Market Fit***, a startup should ideally raise at least enough money to fully exploit the opportunity in front of it, and then to get to profitability while still fully exploiting that opportunity.
+##### What if you can’t raise that much money at once?
+- If you are `Before` Product/Market Fit and you can’t raise enough money in one shot to get to Product/Market Fit, then you will need get as far as you can on each round and demonstrate progress towards Product/Market Fit when you raise each new round.
+- If you are `After` Product/Market Fit and you can’t raise enough money in one shot to fully exploit your opportunity, you have a high-class problem and will probably — but not definitely that it gets continually easier to raise new money as you need it.
+#### nWhat are the consequences of not raising enough money?
+- First, you may have — and probably will have — unanticipated setbacks within your business.
+- Second, the funding window may not be open when you need more money.
+- Third, something completely unanticipated, and bad, might happen.
+> ##### So how much money should I raise?
+That is liquidation preference. In the scenario where your company ultimately gets acquired: the more money you raise from outside investors, the higher the acquisition price has to be for the founders and employees to make money on top of the initial payout to the investors.
+> raising a lot of money can make it much harder to effectively sell your company for less than a very high price, which you may not be able to get when the time comes.
+##### in a normal scenario, raising more money rather than less usually makes sense, since you are buying yourself insurance against both internal and external potential bad events
+#### How much money is too much?
+- ***Raising money is never an accomplishment in and of itself*** — it just raises the stakes for all the hard work you would have had to do anyway: actually building your business.
+##### Some signs of cultural corrosion caused by raising too much money:
+- `Hiring too many people` - slows everything down and makes it much harder for you to react and change
+- `Lazy management culture` - It's will suffers with potentially disastrous long-term consequences to morale and effeciveness
+- `Engineering team bloat` — another side effect of hiring too many people; Your best people get frustrated and quit, and you’re in huge trouble.
+- Lack of focus on product and customers
+- `Too many salespeople too soon` — out selling a product that isn’t quite ready yet, hasn’t yet achieved Product/Market Fit
+- `Product schedule slippage`
+> #### The main thing is to keep the main thing the main thing
+
+> Continue to run as lean as you can, bank as much of the money as possible, and save it for a rainy day — or a nuclear winter.
+
+|WARNING: :warning: The easiest way to lose control of your spending when you raise too much money is to hire too many people. The second easiest way is to pay people too much. Worry more about the Xrst one than the second one; more people multiply spending a lot faster than a few raises.|
+|--|
