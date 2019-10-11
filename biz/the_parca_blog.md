@@ -201,3 +201,68 @@ That is liquidation preference. In the scenario where your company ultimately ge
 
 |WARNING: :warning: The easiest way to lose control of your spending when you raise too much money is to hire too many people. The second easiest way is to pay people too much. Worry more about the Xrst one than the second one; more people multiply spending a lot faster than a few raises.|
 |--|
+---
+### Fri Oct 11 08:09:53 +07 2019
+---
+#### Why a startup's initial business plan doesn't matter that much
+> It is therefore much more important for a startup to aggressively seek out a big market, and product/market Ft within that market, once the startup is up and running, than it is to try to plan out what you are going to do in great detail ahead of time.
+### Hiring
+#### Hiring, managing, promoting, and firing executives - P8
+---
+> The manager may ask what the right thing to do is; the executive should know.
+
+> the output of an executive is the output of her organization.
+#### In a startup, a successful executive must accomplish three other critical tasks simultaneously:
+- ***Build her organization*** - Isn’t there to be a caretaker; rather she must build her organization,often from scratch.
+- ***Be a primary individual contributor*** – a startup executive must “roll up her sleeves” and produce output herself.
+- ***Be a team player*** – a startup executive must take personal responsibility for her relationships with her peers and people throughout the startup, in all functions and at all levels.
+###### Hiring
+1. if you’re not sure whether you need an executive for a function, don’t hire one.
+> Particularly before a startup has achieved product/ market fit, it is often better to have a ***`highly motivated manager`*** or ***`director`*** running a function than an executive.
+- Hire an executive only when it’s clear that you need one: when an organization needs to get built; when hiring needs to accelerate;
+> when you need more processes and structure and rigor to how you do things.
+- hire the best person for the next nine months, not the next three years.
+2. Hire for what you need now
+> and for roughly the next nine months. At the very least, you will get what you need now, and the person you hire may well be able to scale and keep going for years to come.
+3. Whenever possible, promote from within
+4. key things to look at, and for, When evaluating executive canidates:
+> Look for someone who is hungry and driven
+
+> Flip side of that: beware people who have “done it before”
+
+> Don’t disqualify someone based on ego or cockiness
+
+> Beware hiring a big company executive for a startup
+
+> In particular, really beware hiring an executive from an incredibly successful big company. This is often very tempting.
+> **let them go somewhere else and fail, and then hire them”. Believe it.**
+
+> This probably goes without saying, but look for a pattern of
+output– accomplishment. Validate it by reference checking
+peers, reports, and bosses. Along the way, reference check
+personality and teamwork, but look Xrst and foremost for a
+pattern of output.
+
+5. By all means, use an executive recruiter, but for sourcing, not evaluation.
+> It’s your job to evaluate and make the decision, not the recruiter’s.
+
+6. Be ready to pay market compensation 
+> including more cash  - compensation than you want, but watch for red Gags in the compensation discussion
+
+> Watch out for candidates who want egregious amounts of cash, high bonuses, restricted stock, vacation days, perks, or — worst of all — guaranteed severance. A candidates who is focused on those things, as opposed to the option package, is not ready to do a startup.
+
+7. When hiring the executive to run your former specialty, be careful you don’t hire someone weak on purpose.
+> make sure the person you hire into that role is way better than you used to be.
+
+8. Recognize that hiring an executive is a high-risk proposition.
+> if you know what you’re doing, the odds of a given executive hire working out will be about 50/50. That is, about 50% of the time you’ll screw up and ultimately have to replace the person.
+
+#### Managing
+1. manage your executives.
+> You should nevertheless manage every executive as if she were a normal employee. This means weekly 1:1’s, performance reviews, written objectives,
+
+2. Give your executives the latitude to run their organizations.
+> if you want to give an executive full latitude, but you’re reluctant to do so because you’re not sure she can make it happen, then it’s probably time to fire her.
+
+3. Ruthlessly violate the chain of command in order to gather data.
+> A great executive never minds when the CEO talks to people in her organization.
