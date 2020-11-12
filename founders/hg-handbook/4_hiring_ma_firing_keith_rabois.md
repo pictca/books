@@ -544,3 +544,83 @@ The responsibilities of a CEO, for example, might include:
     managerial excellent.
 
 ## WHY NOT A COO?
+All growing companies need to build out their executive teams, as well
+as the ability and expertise to scale. That can be done by hiring or
+promoting a set of people who, in sum, complement the founders and allow
+the company to grow rapidly and effectively. It is not necessary that
+one of these team members have the COO title. For example, prior to Poly
+vore's acquisition by Yahoo, the company's CFO owned multiple area
+beyond traditional finance.
+
+Additionally, the COO title sets a very high bar for who you hire for
+the role. You can't really hire above the COO later like you could with
+a VP, which means losing some flexibility in your future organizational
+evolution as the company goes from, say, 100 to 5,000 people. If the COO
+is out of her depth, she often won't accept a demotion to VP and will
+leave instead.
+
+## HOW DO YOU CHOOSE A COO?
+For COO, you optimally want someone strong enough to be CEO of a
+company, or at least someone with solid general management or key
+functional experience. Sheryl interviewed for other CEO roles before
+accepting COO of Facebook. Similarly, Box's COO, Dan Levin, was a CEO or
+president of two companies and a GM at Intuit before joining BOX. You
+want someone so excited by your company's vision and opportunity that
+she is willing to give up some of the perceived upside of being a
+general manager or CEO elsewhere to join your company.
+
+Additional criteria to look for are:
+ - 1. Maturity and lack of ego.
+    Lool for a seasoned executive who is willing to suppresss her own
+    ego to partner with, and execute, a founder's vision.
+ - 2. Chemistry with founders & CEO.
+    If the COO cannot mind-meld with the company founders, confilcts and
+    a bad ending to the relationship are on their way.
+ - 3. Past experience scaling a company or organization.
+    Managing a 1,000-person team is very different from growing
+    something from 20 to 1,000 people. Look for someone who has dealt
+    with hypergrowth or rapid growth in the past if you need help
+    scaling quickly (versus just building out functions).
+    Claire Hughes Johnson scaled operations and business teams at Google
+    before doing so at Stripe.
+ - 4. Entrepreneurial mindset.
+    Optimally, you want someone who has both operated at scale and
+    worked in a startup environment (or scaled something from scratch at
+    at a larger company).
+
+ - 5. Functional expertise.
+    A COO hire should have previously run a reasonable subset of the
+    functions you want her to own initially at your company.
+ - 6. Ability to hire.
+    This person will be building out a chunk of your company's
+    organizational skeleton. You need someone who can hire well and
+    manage executives herself.
+ - 7. Someone you can learn from.
+    As a first-time founder or manager, you want a COO who can teach you
+    about management or other areas. Bill gate gamously said that he
+    often hired senior executives so that he could learn from them.
+ - 8. Process focus.
+    The optimal COO candidate can bring lightweight processes or best
+    practices from other companies, and be smart about how to craft new
+    ones for your company.
+    Finally, when hiring a COO, you should have a clear sense of what
+    responsibilities your want to keep as founder (e.g., design product,
+    marketing, engineering) and what you are willing to truly delegate
+    (e.g., business development, sales, corporate development, finance,
+    HR, operations,etc.). Without that clarity, you may be setting
+    yourself up for failure from the start. You should also remember
+    that a COO does not necessarily need to run everything you don't.
+    For example, at Microsoft, Gates ran product, Steve Ballmer ran
+    sales, and Bob Herbold as COO ran finance, HR, marketing, PR, and
+    other areas.
+
+I don't think every company needs a COO; a well-rounded executive or
+leadership team may allow you to do without one. However, if you do
+decide that you need the management chops and experience of a
+COO-caliber candidate, proceed with the hiring process carefully and
+deliberately.
+
+- "You want someone who will come in to complement, operationalize, and
+  execute your vision as a founder." - Elad Gil
+
+
