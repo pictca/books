@@ -1,4 +1,6 @@
- MoneyRotten helps businesses promote their products and services via affiliate programs and influencers in social media.
+MoneyRotten helps businesses promote their products and services via affiliate programs and influencers in social media.
+
+MoneyRotten helps businesses promote their products and services via affiliate programs and influencers in social media.
 
 Social influencers can get better deals on various options based on their results. They also get a commission with affiliate links for promoting the product's business partners.
 

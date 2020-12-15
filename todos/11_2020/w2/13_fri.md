@@ -1,0 +1,5 @@
+---
+- Pitch powerpoint - ~ 3hr
+- Which bazelbuild will build first. 1.3hr
+- Followup Depa / Pong / Hackathon / Stellar news. 1hr
+--- 
