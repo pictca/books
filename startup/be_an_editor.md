@@ -114,3 +114,7 @@ Another little trick of the trade to finding your barrels is watching
 whose desk people are going to often. Chances are that person is someone
 in the office who is trustworthy, knowledgeable, and informative, so
 they could be a potential barrel.
+
+Rabois sid to promote that person and give them more responsibility.
+
+
